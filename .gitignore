@@ -1,4 +1,4 @@
 strato-auth.json
 venv
-certbot.env
+*.env
 __pycache__
